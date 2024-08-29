@@ -3,7 +3,7 @@
 
 This dataset provides information on passengers aboard the RMS Titanic, including features that can be used for predicting survival. It contains various attributes related to passengers such as age, sex, ticket fare, and passenger class, which are crucial for understanding patterns and building predictive models.
 
-Content:
+## Content description:
 
 * PassengerID: Unique identifier for each passenger.
 * Pclass: Passenger class (1st, 2nd, 3rd).
@@ -18,7 +18,7 @@ Content:
 * Embarked: Port of embarkation (C = Cherbourg; Q = Queenstown; S = Southampton).
 * Survived: Survival status (0 = No; 1 = Yes).
 
-Questions:
+## Questions:
 1) Get the details of passengers who survived and were younger than 18 years old.
 2) Get the details of male passengers who were older than 40 years old.
 3) Get the details of passengers who paid a fare greater than $30 and survived.
