@@ -1,4 +1,6 @@
 # Titanic-dataset-data-analysis
+![image](https://github.com/user-attachments/assets/fec8595a-8540-48f2-9380-67eacfe3b325)
+
 This dataset provides information on passengers aboard the RMS Titanic, including features that can be used for predicting survival. It contains various attributes related to passengers such as age, sex, ticket fare, and passenger class, which are crucial for understanding patterns and building predictive models.
 
 Content:
